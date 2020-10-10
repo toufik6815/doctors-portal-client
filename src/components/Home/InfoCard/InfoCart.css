@@ -1,0 +1,25 @@
+.info-primary{
+    background-color: #1CC7C1;
+}
+
+.info-dark{
+    background-color: #3A4256;
+}
+
+.info-icon{
+    font-size: 3em;
+}
+
+.info-container{
+    height: 120px;
+    padding: 40px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.info-card{
+    padding: 0 5px;
+}
