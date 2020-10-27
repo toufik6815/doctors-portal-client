@@ -25,7 +25,7 @@ const Contact = () => {
                        </div>
 
                        <div className="form-group text-center">
-                           <button type="button" className="btn main-btn"> Submit </button>
+                           <button type="button" className="btn btn-brand"> Submit </button>
                        </div>
                    </form>
             </div>

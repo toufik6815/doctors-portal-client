@@ -1,30 +1,30 @@
 import React from 'react';
-import services_1 from '../../../images/services_1.png'
-import services_2 from '../../../images/services_2.png'
-import services_3 from '../../../images/services_3.png'
+import fluoride from "../../../images/fluoride.png";
+import cavity from "../../../images/cavity.png";
+import whitening from "../../../images/whitening.png";
 import ServiceDetail from '../ServiceDetail/ServiceDetail';
 
 
 const serviceData = [
   {
     name: "Fluoride Treatment",
-    img: services_1
+    img: fluoride,
   },
   {
     name: "Cavity Filling",
-    img: services_2
+    img: cavity,
   },
   {
     name: "Teeth Whitening",
-    img: services_3
-  }
+    img: whitening,
+  },
 ];
 
 const Services = () => {
     return (
       <section className="services-container mt-5">
         <div className="text-center">
-          <h5 style={{ color: "#5FC7C7" }}>OUR SERVICES</h5>
+          <h5 className="text-brand">OUR SERVICES</h5>
           <h2>Services We Provide</h2>
         </div>
 

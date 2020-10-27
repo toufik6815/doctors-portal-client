@@ -16,7 +16,7 @@ const FeaturedService = () => {
 
                         <p className="text-secondary my-5">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum delectus assumenda consequuntur fuga enim voluptate fugiat soluta nam atque id? Beatae, sequi temporibus vitae ipsa obcaecati iure, illum dolores eos id earum doloremque ullam explicabo debitis animi quibusdam a aut est inventore. Optio blanditiis, quia hic maiores nulla aliquid nobis voluptate minus distinctio maxime, pariatur magnam beatae temporibus eaque molestiae odit minima, iure unde velit incidunt soluta amet obcaecati ipsam.</p>
 
-                        <button className="btn main-btn">Learn More</button>
+                        <button className="btn btn-brand">Learn More</button>
                     </div>
                 </div>
             </div>
