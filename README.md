@@ -18,7 +18,7 @@ A Single page web app with dashboard  where people can pick the date and time an
 * Bootstrap4
 * Firebase
 
-### Backend Technology:
+### Back-end Technology:
 * Node.js
 * Express.js
 * MongoDB
